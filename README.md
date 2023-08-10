@@ -1,39 +1,38 @@
 # SM23-AI-ROS-03
 Teachable Machine Model
 
-Train a computer to recognize your own images, sounds, & poses.
+trains a computer to recognize your own pictures, sounds, and gestures.
 
-A fast, easy way to create machine learning models for your sites, apps, and more, no expertise or coding required.
+The fast and easy way to build machine learning models for your website, app, and more with no technical or coding skills required.
 
-What is Teachable Machine?
+What is a Teachable Machine?
+Teachable Machine is a website tool that allows accessible models for anyone quickly, easily and fast to create machine learning models.
 
-Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone.
+# How to use it?
 
-# How do I use it?
+Teachable Machines is flexible - use data or capture patterns in real time. Respecting the way you work.
 
-+ Gather
-Gather and group your examples into classes, or categories, that you want the computer to learn (Gather samples that reads Train Model)
+You can choose to use all of them on the device without any webcam or microphone data leaving from your computer.
 
-+ Train
-Train your model, then instantly test it out to see whether it can correctly classify new examples.Video: Train your model of a desktop and mobile web browser containing a sample teachable machine project
++ Photos
 
-+ Export
-Export your model for your projects: sites, apps, and more. You can download your model or host it online.
+Teach the model to classify photos using files or webcams.
 
-# What can I use to teach it?
-Teachable Machine is flexible – use files or capture examples live. It’s respectful of the way you work. 
++ Sound
 
-You can even choose to use it entirely on-device, without any webcam or microphone data leaving your computer.
+Teach a model for classifying sound by writing short sound samples.
 
-+ Images
-Teach a model to classify images using files or your webcam.
-+ Sounds
-Teach a model to classify audio by recording short sound samples.
 + Poses
-Teach a model to classify body positions using files or striking poses in your webcam.
+
+shows a model for classifying body poses or positions using poses from files or webcam. 
 
 The models you make with Teachable Machine are real TensorFlow.js models that work anywhere javascript runs, so they play nice with tools like Glitch, P5.js, Node.js & more.
+
 Plus, export to different formats to use your models elsewhere, like Coral, Arduino & more.
+
+The patterns you create with Teachable Machine are true TensorFlow.js patterns and work wherever JavaScript runs, so they work well with tools like Glitch, P5.js, Node.js, and more.
+
+Also, you can export your model to Coral, Arduino, and from exporting different formats for use elsewhere.
 
 # Using the Model
 After the model is trained, you can use it for many different purposes.
