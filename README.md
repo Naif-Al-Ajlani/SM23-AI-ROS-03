@@ -26,15 +26,11 @@ Teach a model for classifying sound by writing short sound samples.
 
 + Poses
 
-shows a model for classifying body poses or positions using poses from files or webcam. 
+Shows a model for classifying body poses or positions using poses from files or webcam. 
 
-The models you make with Teachable Machine are real TensorFlow.js models that work anywhere javascript runs, so they play nice with tools like Glitch, P5.js, Node.js & more.
++ The models you make with Teachable Machine are real TensorFlow.js models that work anywhere javascript runs, so they play nice with tools like Glitch, P5.js, Node.js & more.
 
 Plus, export to different formats to use your models elsewhere, like Coral, Arduino & more.
-
-The patterns you create with Teachable Machine are true TensorFlow.js patterns and work wherever JavaScript runs, so they work well with tools like Glitch, P5.js, Node.js, and more.
-
-Also, you can export your model to Coral, Arduino, and from exporting different formats for use elsewhere.
 
 # Using the Model
 After the model is trained, you can use it for many different purposes.
