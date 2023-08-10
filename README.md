@@ -1,11 +1,12 @@
 # SM23-AI-ROS-03
 Teachable Machine Model
 
-trains a computer to recognize your own pictures, sounds, and gestures.
+Trains a computer to recognize your own pictures, sounds, and gestures.
 
 The fast and easy way to build machine learning models for your website, app, and more with no technical or coding skills required.
 
 What is a Teachable Machine?
+
 Teachable Machine is a website tool that allows accessible models for anyone quickly, easily and fast to create machine learning models.
 
 # How to use it?
