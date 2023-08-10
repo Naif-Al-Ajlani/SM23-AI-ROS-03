@@ -41,12 +41,14 @@ After the model is trained, you can use it for many different purposes.
 This example predicts input image, given 3 input images for class named nature, and a class named beach, then calls a function to give a percentage prediction of each class in the input test image based on the given classes:
 
 + percentage prediction result:
-  = First image prediction result:
-<img width="960" alt="2023-08-10 (3)" src="https://github.com/Naif-Al-Ajlani/SM23-AI-ROS-03/assets/98528261/dac9f931-1ef0-455b-baf9-c1d6a2d86b15">
-  = Seconed image prediction result:
-<img width="960" alt="2023-08-10 (4)" src="https://github.com/Naif-Al-Ajlani/SM23-AI-ROS-03/assets/98528261/40bd2cbb-9fe9-47a6-98be-3dc940209b77">
-  = Third image prediction result:
-<img width="960" alt="2023-08-10 (5)" src="https://github.com/Naif-Al-Ajlani/SM23-AI-ROS-03/assets/98528261/f3abd51a-64ca-4f99-b671-b6cfa13d60a6">
+  + First image prediction result:
+    <img width="960" alt="2023-08-10 (3)" src="https://github.com/Naif-Al-Ajlani/SM23-AI-ROS-03/assets/98528261/2cf7acb5-b2c9-4fe2-a531-f888b6133f6a">
+
+  + Seconed image prediction result:
+    <img width="956" alt="2023-08-10 (4)" src="https://github.com/Naif-Al-Ajlani/SM23-AI-ROS-03/assets/98528261/b9d34659-eb1c-4602-932d-d5ac6f178fbc">
+
+  + Third image prediction result:
+    <img width="960" alt="2023-08-10 (5)" src="https://github.com/Naif-Al-Ajlani/SM23-AI-ROS-03/assets/98528261/a5888e6b-2043-4973-8289-5423c97cfcad">
 
 # Open CV Keras code used to train the model:
 
