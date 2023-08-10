@@ -7,6 +7,7 @@ The fast and easy way to build machine learning models for your website, app, an
 
 What is a Teachable Machine?
 
+
 Teachable Machine is a website tool that allows accessible models for anyone quickly, easily and fast to create machine learning models.
 
 # How to use it?
